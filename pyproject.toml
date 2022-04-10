@@ -1,0 +1,31 @@
+[tool.poetry]
+name = "polysemy"
+version = "0.1.0"
+description = ""
+authors = ["Ezio"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = ">=3.7 <3.8"
+seaborn = "^0.11.2"
+torch = "1.0.0"
+numpy = "^1.21.4"
+PyQt6 = "^6.2.2"
+tornado = "^6.1"
+transformers = "^4.14.1"
+datasets = "^1.16.1"
+sklearn = "^0.0"
+jupyter = "^1.0.0"
+notebook = "^6.4.6"
+cairocffi = "^1.3.0"
+tk = "^0.1.0"
+PyQt5 = "^5.15.6"
+tqdm = "^4.62.3"
+matplotlib = "^3.5.1"
+onnx = "^1.10.2"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

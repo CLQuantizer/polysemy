@@ -1,0 +1,17 @@
+hidden650_batch128_dropout0.2_lr20.0.pt
+df.csv
+download.py
+ngram_lstm.py
+mian.py
+pandas_experiments.py
+.ipynb_checkpoints
+all_word_emb
+all_word_freeh
+all_mod_heat.jpeg
+all_mod_heat.png
+__pycache__
+valid.txt
+chickens_animal.txt
+all*
+contextual_embeddings.*
+*.onnx

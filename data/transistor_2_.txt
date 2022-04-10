@@ -1,0 +1,21 @@
+a two dimensional array of doped region within a transistor
+by proper selection of cell configuration and by proper access transistor sizing
+it can kill drive to a series power transistor or MOSFET
+we can easily construct a transistor with multiple emitters
+the primary task was to devise incoming transistor
+I removed the transistor
+all the current flows through the transistor
+when the collector voltage of a transistor
+the level of amplification is dependent upon the gain of the transistor
+to the unknown leads of the transistor
+in order to control the saturation level of output transistor
+the normal alternator and a black box transistor ignition
+it can be any general purpose transistor
+a heat sink would definitely be required on the driver transistor
+micro features in insulated gate bipolar transistor
+adjust the base bias to prevent the transistor
+a load transistor
+each current switch includes a field effect transistor
+the drain terminal of transistor
+as the relay could be controlled by the switch without the transistor
+it is used to drive a power transistor
